@@ -1,2 +1,3 @@
 # wpu-resolusi
-Repositori untuk menyimpan rencana WPU ke depannya
+
+Ini adalah repositori yang aku gunakan ketika belajar bagaimana caranya menggunakan Github
